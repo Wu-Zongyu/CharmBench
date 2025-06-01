@@ -25,13 +25,12 @@ If you use our datasets or codes, please consider starring our repo and citing u
 Recent advancements in Large Vision-Language Models (LVLMs) have shown remarkable capabilities. However, their performance in complex multimodal reasoning tasks is not fully understood. To bridge this gap, we propose **CharmBench-Preview**, a preview version of a **Cha**llenging **R**easoning and **M**ultimodal **Bench**mark for Large Vision-Language Models. This benchmark presents intricate problems that genuinely require models to deeply understand both visual and textual contextual information, forcing them to carefully extract and combine fine details from both sources. 
 
 ## Authors
-**Zongyu Wu**<sup>1</sup>\*, **Minhua Lin**<sup>1</sup>\*, **Jiaxuan Cai**<sup>2</sup>, **Shuhua Yang**<sup>1</sup>, **Yilong Wang**<sup>1</sup>  **Fali Wang**<sup>1</sup>, **Zhiwei Zhang**<sup>1</sup>, **Jiahao Zhang**<sup>1</sup>, **Xianren Zhang**<sup>1</sup>, **Chenglin Weng**<sup>1</sup>, **Xianfeng Tang**<sup>3</sup>, **Xiang Zhang**<sup>1</sup>, **Hui Liu**<sup>3</sup>, **Suhang Wang**<sup>1</sup>†  
+**Zongyu Wu**<sup>1</sup>, **Minhua Lin**<sup>1</sup>, **Jiaxuan Cai**<sup>2</sup>, **Shuhua Yang**<sup>1</sup>, **Yilong Wang**<sup>1</sup>  **Fali Wang**<sup>1</sup>, **Zhiwei Zhang**<sup>1</sup>, **Jiahao Zhang**<sup>1</sup>, **Xianren Zhang**<sup>1</sup>, **Chenglin Weng**<sup>1</sup>, **Xianfeng Tang**<sup>3</sup>, **Xiang Zhang**<sup>1</sup>, **Hui Liu**<sup>3</sup>, **Suhang Wang**<sup>1</sup>†  
 
 <sup>1</sup> The Pennsylvania State University  
 <sup>2</sup> The Ohio State University  
 <sup>3</sup> Amazon  
 
-\* Equal contribution  
 † Corresponding author  
 Contact: [zongyuwu@psu.edu](mailto:zongyuwu@psu.edu). If you have any questions, feel free to open an issue or send me an email!
 
