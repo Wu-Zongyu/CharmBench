@@ -20,6 +20,8 @@ If you use our datasets or codes, please consider starring our repo and citing u
 - [ ] **Upload a paper of CharmBench to ArXiv📃**  
 
 
+## Licenses of Datasets
+The data in the [repo](https://github.com/Wu-Zongyu/CharmBench/tree/main/Data) sourced from [33IQ](https://www.33iq.com/)—except for Index 92617—is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The authors do not have the copyright for the rest questions. The evaluation code is licensed under Apache-2.0 license. 
 
 ## Abstract
 Recent advancements in Large Vision-Language Models (LVLMs) have shown remarkable capabilities. However, their performance in complex multimodal reasoning tasks is not fully understood. To bridge this gap, we propose **CharmBench-Preview**, a preview version of a **Cha**llenging **R**easoning and **M**ultimodal **Bench**mark for Large Vision-Language Models. This benchmark presents intricate problems that genuinely require models to deeply understand both visual and textual contextual information, forcing them to carefully extract and combine fine details from both sources. 
@@ -113,8 +115,7 @@ Refer to https://github.com/QwenLM/Qwen2.5-VL for more detailed instructions.
 Refer to https://huggingface.co/meta-llama/Llama-3.2-11B-Vision for detailed instructions. 
 
 
-## Licenses of Datasets
-The evaluation code is licensed under Apache-2.0 license. All data sourced from [33IQ](https://www.33iq.com/)—except for Index 92617—is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The authors do not have the copyright for the rest questions.
+
 
 ## Acknowledgement
 We employ [vllm](https://github.com/vllm-project/vllm) to deploy Qwen2.5-VL-series models. And use the official code on [HuggingFace](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision) to deploy LLama-3.2-11b-vision-instruct. Thanks for their great work!
